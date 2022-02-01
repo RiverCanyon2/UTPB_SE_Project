@@ -1,2 +1,2 @@
-# UTPB_SE_Project
+# COSC-4460 Software Engineering
 Software Engineering Project
